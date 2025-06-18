@@ -1,0 +1,23 @@
+{
+  "name": "appia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "fastify": "^5.4.0",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "typescript": "^5.8.3"
+  }
+}
